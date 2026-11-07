@@ -1,0 +1,24 @@
+{
+  "name": "GiftTracker Pro",
+  "short_name": "GiftTracker",
+  "description": "Отслеживайте подарки, дни рождения и события",
+  "start_url": "/GiftTrackerPro/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#FF2D55",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
